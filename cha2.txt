@@ -1,0 +1,41 @@
+<!--<!DOCtype html>
+<html>
+<head>
+</head>
+<body style="display: flex;">
+<br>
+<p>aaa &ensp; bbb</p>
+<p>ccc &ensp; ddd</p>
+<p>eee &ensp; fff</p>
+
+<p style="flex:1;
+">ccc</p>
+<p style="flex:1;
+margin-right: 2px;">ddd</p>
+
+</body>
+</html>-->
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    pre {
+      white-space: pre-wrap;
+      font-family: monospace;
+    }
+    
+    span {
+      display: inline-block;
+      width: 50%;
+    }
+  </style>
+</head>
+<body>
+  <pre>
+    <span>Phrase 1</span><span>Phrase 2</span>
+    <span>Phrase 3</span><span>Phrase 4</span>
+    <span>Phrase 5</span><span>Phrase 6</span>
+    <span>Phrase 7</span><span>Phrase 8</span>
+  </pre>
+</body>
+</html>
