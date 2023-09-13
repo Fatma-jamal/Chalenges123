@@ -1,20 +1,4 @@
-<!--<!DOCtype html>
-<html>
-<head>
-</head>
-<body style="display: flex;">
-<br>
-<p>aaa &ensp; bbb</p>
-<p>ccc &ensp; ddd</p>
-<p>eee &ensp; fff</p>
 
-<p style="flex:1;
-">ccc</p>
-<p style="flex:1;
-margin-right: 2px;">ddd</p>
-
-</body>
-</html>-->
 <!DOCTYPE html>
 <html>
 <head>
